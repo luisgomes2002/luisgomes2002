@@ -8,7 +8,7 @@
 <!-- Intro -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Luis</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/luis-gomes-8462b321a/">Luis</a></b>
         </samp>
 </h3>
 
